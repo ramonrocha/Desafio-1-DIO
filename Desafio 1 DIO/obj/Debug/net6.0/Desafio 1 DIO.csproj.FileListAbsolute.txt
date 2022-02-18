@@ -1,0 +1,15 @@
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\bin\Debug\net6.0\Desafio 1 DIO.exe
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\bin\Debug\net6.0\Desafio 1 DIO.deps.json
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\bin\Debug\net6.0\Desafio 1 DIO.runtimeconfig.json
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\bin\Debug\net6.0\Desafio 1 DIO.dll
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\bin\Debug\net6.0\ref\Desafio 1 DIO.dll
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\bin\Debug\net6.0\Desafio 1 DIO.pdb
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.csproj.AssemblyReference.cache
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.AssemblyInfoInputs.cache
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.AssemblyInfo.cs
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.csproj.CoreCompileInputs.cache
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.dll
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\ref\Desafio 1 DIO.dll
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.pdb
+D:\TRABALHO\DESENVOLVIMENTO\C#\Desafio 1 DIO\Desafio 1 DIO\obj\Debug\net6.0\Desafio 1 DIO.genruntimeconfig.cache
